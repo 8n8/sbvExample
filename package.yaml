@@ -5,7 +5,7 @@ dependencies:
 - sbv
 
 executables:
-  shed:
+  sbvExample:
     main:                Main.hs
     source-dirs:         .
     ghc-options:
