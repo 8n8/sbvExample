@@ -1,0 +1,13 @@
+name:                sbvExample
+
+dependencies:
+- base >= 4.7 && < 5
+- sbv
+
+executables:
+  shed:
+    main:                Main.hs
+    source-dirs:         .
+    ghc-options:
+    - -threaded
+    - -Wall

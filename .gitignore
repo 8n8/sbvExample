@@ -1,0 +1,4 @@
+.stack-work/
+*~
+sbvExample.cabal
+*.sw*
